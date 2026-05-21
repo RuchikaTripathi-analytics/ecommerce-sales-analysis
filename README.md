@@ -36,5 +36,5 @@ The analysis includes:
 ---
 
 ## 🚀 Author
-Gaurav Raj
+Ruchika Tripathi
 Aspiring Data Analyst
